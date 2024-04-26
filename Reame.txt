@@ -1,0 +1,21 @@
+Hello,
+
+The follower are the paths you can test
+
+# This path can be used to check that web application serves static HTML content with images and styles
+/restaurant
+
+# JDOSER endpoint, for example, to make POST request and create new user
+/auth/users/ 
+
+# to login and auth get token
+/api-token-auth/ 
+
+# menu items
+/restaurant/menu/
+/restaurant/menu/{menuItemId}
+
+# table booking 
+/restaurant/booking/tables/
+
+Thanks for you reviewing

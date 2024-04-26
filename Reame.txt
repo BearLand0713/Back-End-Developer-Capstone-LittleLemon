@@ -3,7 +3,7 @@ Hello,
 The follower are the paths you can test
 
 # This path can be used to check that web application serves static HTML content with images and styles
-/restaurant
+/restaurant/
 
 # JDOSER endpoint, for example, to make POST request and create new user
 /auth/users/ 
